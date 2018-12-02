@@ -1,0 +1,778 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"save",
+				"saveTweet\tstatement"
+			],
+			[
+				"Stream",
+				"StreamListner\tmodule"
+			],
+			[
+				"re",
+				"request_url\tstatement"
+			],
+			[
+				"time",
+				"timedelta\tclass"
+			],
+			[
+				"rec",
+				"recvfrom\tfunction"
+			],
+			[
+				"sen",
+				"sendto\tfunction"
+			],
+			[
+				"AF",
+				"AF_INET\tinstance"
+			],
+			[
+				"s",
+				"s\tstatement"
+			],
+			[
+				"A",
+				"AF_INET\tinstance"
+			],
+			[
+				"Mi",
+				"Main\tfunction"
+			],
+			[
+				"line",
+				"lineNum\tstatement"
+			],
+			[
+				"read",
+				"readlines\tfunction"
+			],
+			[
+				"ar",
+				"args\tstatement"
+			],
+			[
+				"Argument",
+				"ArgumentParser\tclass"
+			],
+			[
+				"ma",
+				"matchResult\tstatement"
+			],
+			[
+				"__",
+				"__name__\tinstance"
+			],
+			[
+				"pars",
+				"parse_args()\targparse"
+			],
+			[
+				"Argumrn",
+				"ArgumentParser\targparse"
+			],
+			[
+				"in",
+				"input\tfunction"
+			],
+			[
+				"i",
+				"import\tkeyword"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"input",
+				"inputName"
+			],
+			[
+				"gun",
+				"gun_name"
+			],
+			[
+				"use",
+				"users"
+			],
+			[
+				"Ge",
+				"GetDataValue"
+			],
+			[
+				"user",
+				"userDataString"
+			],
+			[
+				"em",
+				"Email"
+			],
+			[
+				"mys",
+				"mysqli"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"co",
+				"conn"
+			],
+			[
+				"get",
+				"getTrees\tfunction"
+			],
+			[
+				"de",
+				"deleteTree\tfunction"
+			],
+			[
+				"ca",
+				"cant_pick\tstatement"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"w",
+				"w\tstatement"
+			],
+			[
+				"it",
+				"itemgetter\tclass"
+			],
+			[
+				"zi",
+				"zipped\tstatement"
+			],
+			[
+				"k",
+				"k_wrt_doll\tstatement"
+			],
+			[
+				"is",
+				"is_pow_2\tfunction"
+			],
+			[
+				"dit",
+				"dist_to_int\tstatement"
+			],
+			[
+				"dis",
+				"dist_from_org"
+			],
+			[
+				"res",
+				"res\tstatement"
+			],
+			[
+				"tra",
+				"transitive\tstatement"
+			],
+			[
+				"te",
+				"transitive\tstatement"
+			],
+			[
+				"b",
+				"b\tstatement"
+			],
+			[
+				"ro",
+				"road_cost\tparam"
+			],
+			[
+				"li",
+				"lib_cost\tparam"
+			],
+			[
+				"a",
+				"a_list"
+			],
+			[
+				"email",
+				"email1"
+			],
+			[
+				"naem",
+				"name1"
+			],
+			[
+				"even",
+				"event1"
+			],
+			[
+				"nam",
+				"name1"
+			],
+			[
+				"sn",
+				"send_certi"
+			],
+			[
+				"fo",
+				"find_element_by_css_selector"
+			],
+			[
+				"se",
+				"send_keys"
+			],
+			[
+				"fi",
+				"find_element_by_css_selector"
+			],
+			[
+				"sor",
+				"sort_l"
+			],
+			[
+				"add",
+				"add_edge"
+			],
+			[
+				"def",
+				"defaultdict"
+			],
+			[
+				"len",
+				"len_s"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"jquer",
+				"jquery"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"mat",
+				"margin-bottom"
+			],
+			[
+				"My",
+				"MyPortal"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"emai",
+				"emailto"
+			],
+			[
+				"Emia",
+				"EMAIL_HOST_USER"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ur",
+				"urlpatterns"
+			],
+			[
+				"sta",
+				"static-only"
+			],
+			[
+				"BASE",
+				"BASE_DIR"
+			],
+			[
+				"m",
+				"myUser"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"img2",
+				"img2_fg"
+			],
+			[
+				"img1",
+				"img1_bg"
+			],
+			[
+				"im",
+				"img2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"last_filter": "python",
+		"selected_items":
+		[
+			[
+				"python",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"py",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Conda: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pyt",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"python r",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"python s",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"repl py ",
+				"SublimeREPL: Python"
+			],
+			[
+				"repl py ru",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"PA",
+				"Package Control: Install Package"
+			],
+			[
+				"Conda ",
+				"Conda: Install Package"
+			],
+			[
+				"Con",
+				"Conda: List Packages"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 172.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/Agent/index.html",
+		"/C/Users/Akshay/Desktop/New folder (2)/mp-neuron.py",
+		"/E/BE Kinect project/Assets/KinectView/Scripts/UI/PauseMenu.cs",
+		"/C/Users/Akshay/Desktop/py/math.py",
+		"/C/Users/Akshay/Desktop/py/Pizza.py",
+		"/C/Users/Akshay/Desktop/New folder (2)/mp.py",
+		"/C/Users/Akshay/Desktop/py/bitcoin_price.py",
+		"/C/Users/Akshay/Desktop/py/auto_send_certi/auto_send.py",
+		"/C/Users/Akshay/Desktop/py/Graphs/Journey_To_The_Moon.py",
+		"/C/Users/Akshay/Desktop/py/Hackerrank/greedy-florist,py.py",
+		"/C/Users/Akshay/Desktop/py/Hackerrank/game_counter.py",
+		"/C/Users/Akshay/Desktop/sublime.py",
+		"/C/Users/Akshay/ml/Test/titanic_visual_analysis.py",
+		"/C/Users/Akshay/Code_6_Python/Algorithm.py",
+		"/C/Python27/Lib/test/test_datetime.py",
+		"/C/Users/Akshay/abracadabra/Fingerprint/fingerprint.py",
+		"/C/Users/Akshay/Desktop/py/instabot.py",
+		"/C/Users/Akshay/Desktop/mcc/simple-wireless.tcl",
+		"/C/Users/Akshay/Desktop/mcc/mixed.tcl",
+		"/C/Users/Akshay/Desktop/mcc/simple-wired.tcl",
+		"/C/Users/Akshay/Desktop/first_set_of_slides",
+		"/C/Users/Akshay/acadcontent/spychat/1.html",
+		"/C/Users/Akshay/acadcontent/python-v4/1.html",
+		"/C/Users/Akshay/Desktop/py/tweetbot.py",
+		"/C/Users/Akshay/Desktop/py/try.py",
+		"/C/Users/Akshay/Desktop/py/spy_details.py",
+		"/C/Users/Akshay/AppData/Roaming/Sublime Text 3/Packages/User/Python27.sublime-build",
+		"/C/Users/Akshay/Desktop/FaceRecog/facerecon.py",
+		"/C/Users/Akshay/Desktop/smart-video-surveillance-/manage.py",
+		"/C/Users/Akshay/Desktop/py/Advanced/client.py",
+		"/C/Users/Akshay/Desktop/py/Advanced/server.py",
+		"/C/Users/Akshay/Desktop/py/Advanced/udpServer.py",
+		"/C/Users/Akshay/Desktop/py/Advanced/udpClient.py",
+		"/C/Users/Akshay/Desktop/networking.py",
+		"/C/Users/Akshay/Desktop/py/Advanced/asyncwrite.py",
+		"/C/Users/Akshay/Desktop/py/Advanced/multithread.py",
+		"/C/Users/Akshay/Desktop/py/Advanced/regtest.py",
+		"/C/Users/Akshay/Desktop/py/Advanced/args.py",
+		"/C/Users/Akshay/dlib/setup.py",
+		"/E/OpenCV/Image Recognition.py",
+		"/E/OpenCV/Image Operations.py",
+		"/E/OpenCV/DrawingThings.py",
+		"/E/OpenCV/LoadingVideoSource.py",
+		"/C/Users/Akshay/Desktop/py/tot_diamonds.py",
+		"/C/Users/Akshay/Desktop/py/Graphs/Roads and Libraries.py",
+		"/C/Users/Akshay/Desktop/py/total_diamonds.py",
+		"/C/Program Files/Sublime Text 3/sublime.py",
+		"/C/Users/Akshay/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/Akshay/Desktop/py/MS/MS_2.py",
+		"/C/Users/Akshay/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Akshay/AppData/Roaming/Sublime Text 3/Packages/User/Python35REPL.sublime-build",
+		"/C/Users/Akshay/Desktop/py/game_counter.py",
+		"/C/Users/Akshay/Desktop/py/os.py",
+		"/C/Users/Akshay/Desktop/py/palindrome.py",
+		"/C/Users/Akshay/Desktop/py/villages.py",
+		"/C/Users/Akshay/Desktop/py/Roads and Libraries.py",
+		"/E/New Unity Project/Assets/DataLoader.cs",
+		"/E/wamp64/www/Test/UserData.php",
+		"/E/New Unity Project/Assets/GunDataInsert.cs",
+		"/E/wamp64/www/Test/InsertGunsData.php",
+		"/C/Users/Akshay/Desktop/py/Test.php",
+		"/C/Users/Akshay/Desktop/py/ms_6.py",
+		"/C/Users/Akshay/Desktop/py/MS_2.py",
+		"/C/Users/Akshay/Desktop/py/ms_3.py",
+		"/C/Users/Akshay/Desktop/py/ms_4.py",
+		"/C/Users/Akshay/Downloads/Telegram Desktop/lexo.py",
+		"/C/Users/Akshay/Downloads/Telegram Desktop/orderstrings.py",
+		"/C/Users/Akshay/Desktop/py/greedy-florist,py.py",
+		"/C/Users/Akshay/Downloads/Telegram Desktop/countergame (2).cpp",
+		"/C/Users/Akshay/Downloads/Telegram Desktop/countergame.cpp",
+		"/C/Users/Akshay/Desktop/py/Journey_To_The_Moon.py",
+		"/C/Users/Akshay/Desktop/py/auto_send.py",
+		"/E/wamp64/www/digitalcerti/sendcerti.php",
+		"/E/wamp64/www/digitalcerti/senddirectcerti.php",
+		"/E/wamp64/www/digitalcerti/tcpdf/examples/tcpdf_include.php",
+		"/C/Users/Akshay/Desktop/villages.py",
+		"/C/Users/Akshay/Desktop/voting_fraud.py",
+		"/C/Users/Akshay/Desktop/Pizza.py",
+		"/C/Users/Akshay/Desktop/palindrome.py",
+		"/C/Users/Akshay/Desktop/try.py",
+		"/C/Users/Akshay/Desktop/os.py",
+		"/C/Users/Akshay/Desktop/auto_send.py",
+		"/E/wamp64/www/index.php",
+		"/C/Users/Akshay/Desktop/digitalcerti/sendcerti.php",
+		"/C/Users/Akshay/Desktop/digitalcerti/mailer/maxexecutiontest.php",
+		"/C/Users/Akshay/Desktop/digitalcerti/mailer/class.phpmailer.php",
+		"/C/Program Files/Sublime Text 3/Packages/User/Python_cmd.sublime-build",
+		"/C/Users/Akshay/Desktop/Python_cmd.sublime-build",
+		"/C/Users/Akshay/Desktop/icpc.py",
+		"/C/Users/Akshay/Student_Portal/src/portal/templates/portal.html",
+		"/C/Users/Akshay/Student_Portal/src/profiles/templates/footer.html",
+		"/C/Users/Akshay/Student_Portal/src/profiles/templates/home.html",
+		"/C/Users/Akshay/Student_Portal/src/portal/templates/assignments.html",
+		"/C/Users/Akshay/Student_Portal/src/portal/templates/particles-js.html",
+		"/C/Users/Akshay/Student_Portal/src/profiles/templates/base.html",
+		"/C/Users/Akshay/Student_Portal/static/static/javascript/app.js",
+		"/C/Users/Akshay/Student_Portal/static/static/css/main.css",
+		"/C/Users/Akshay/Student_Portal/static/static/javascript/particles.js",
+		"/C/Users/Akshay/Student_Portal/static/static/css/sticky-footer-navbar.css",
+		"/C/Users/Akshay/Student_Portal/src/portal/templates/timetable.html",
+		"/C/Users/Akshay/Student_Portal/src/portal/templates/sample_papers.html",
+		"/C/Users/Akshay/Student_Portal/src/portal/templates/reference_material.html",
+		"/C/Users/Akshay/Student_Portal/src/portal/templates/lab_manuals.html",
+		"/C/Users/Akshay/Student_Portal - Copy/src/portal/templates/lab_manuals.html",
+		"/C/Users/Akshay/Student_Portal - Copy/src/portal/templates/portal.html",
+		"/C/Users/Akshay/Student_Portal/.gitignore",
+		"/C/Users/Akshay/Student_Portal/src/profiles/models.py",
+		"/C/Users/Akshay/Student_Portal/src/profiles/templates/navbar.html",
+		"/C/Users/Akshay/Student_Portal/src/profiles/templates/profile.html",
+		"/C/Users/Akshay/Student_Portal/src/profiles/templates/edit_profile.html",
+		"/C/Users/Akshay/Student_Portal/src/profiles/views.py",
+		"/C/Users/Akshay/Student_Portal/src/profiles/utils.py",
+		"/C/Users/Akshay/Student_Portal/src/stuport/settings.py",
+		"/C/Users/Akshay/Student_Portal/Lib/site-packages/django/contrib/auth/urls.py",
+		"/C/Users/Akshay/Student_Portal/src/profiles/forms.py",
+		"/C/Users/Akshay/Student_Portal/Lib/site-packages/allauth/account/models.py",
+		"/C/Users/Akshay/Student_Portal/Lib/site-packages/django/contrib/auth/models.py",
+		"/C/Users/Akshay/Student_Portal/src/portal/views.py",
+		"/C/Users/Akshay/Student_Portal/src/profiles/migrations/0005_remove_profile_description.py",
+		"/C/Users/Akshay/Student_Portal/Lib/site-packages/allauth/models.py",
+		"/C/Users/Akshay/Student_Portal/src/profiles/templates/about.html",
+		"/C/Users/Akshay/Desktop/abc/Student_Portal-master/src/profiles/templates/about.html",
+		"/C/Users/Akshay/Desktop/abc/Student_Portal-master/src/profiles/templates/home.html",
+		"/C/Users/Akshay/Desktop/Student_Portal-master/src/profiles/forms.py",
+		"/C/Users/Akshay/Desktop/Student_Portal-master/src/userprofile/models.py",
+		"/C/Users/Akshay/Student_Portal/src/stuport/urls.py",
+		"/C/Users/Akshay/Student_Portal/src/profiles/apps.py",
+		"/C/Users/Akshay/Student_Portal/src/profiles/admin.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"about",
+			"))",
+			"eval(",
+			"eval",
+			"timedelta",
+			"print",
+			"sum",
+			"permute",
+			"num",
+			"Reference_Material",
+			"Assignments",
+			"assignments",
+			"h2",
+			"profile",
+			"instance.file.url",
+			"portal",
+			"profile",
+			"Profile",
+			"portal",
+			"Portal",
+			"portal",
+			"Portal",
+			"portal",
+			"margin",
+			"contact",
+			"about",
+			"type=\"button\"",
+			"locals",
+			"form",
+			"about",
+			"home",
+			"username",
+			"primary_key",
+			"flask",
+			"Flask",
+			"hello",
+			"()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "contact.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"*REPL* [python]"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 88.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
